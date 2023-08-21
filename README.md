@@ -12,7 +12,7 @@
 
 The Video Moment Retrieval App is a sophisticated web application that leverages deep learning technology to help users search for specific moments in videos by entering text queries. Built using Django, TensorFlow, and other powerful libraries, this app offers a seamless and efficient video retrieval experience.
 
-### Features 🚀
+## Features 🚀
 
 - **Intuitive Video Search**: Easily find the exact moments you're looking for in videos by entering text-based queries.
 
@@ -50,7 +50,7 @@ To run the app locally, follow these steps:
 
 1. Clone this repository to your local machine.
 
-2. Install the required dependencies, including Django, TensorFlow, and other Python packages.
+2. Install the required dependencies, including Django, TensorFlow, and other Python packages listed in the requirements.txt file.
 
 3. Configure your database settings in the Django settings file.
 
@@ -70,15 +70,12 @@ To run the app locally, follow these steps:
 
 ## Contributing 🤝
 
-We welcome contributions to enhance this project. Please refer to our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions to enhance this project.
 
-## License 📜
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact Us 📧
 
-If you have any questions or feedback, please don't hesitate to reach out at [contact@example.com](mailto:contact@example.com).
+If you have any questions or feedback, please don't hesitate to reach out at [sahasharad29@gmail.com](mailto:sahasharad29@gmail.com).
 
 <p align="center">
   <i>Discover the power of precise video retrieval with the Video Moment Retrieval App.</i>

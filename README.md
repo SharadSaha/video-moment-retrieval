@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app-logo.png" alt="App Logo" width="200">
+  <img src="vmr.png" alt="App Logo" width="200">
 </p>
 
 # Video Moment Retrieval App 🎥

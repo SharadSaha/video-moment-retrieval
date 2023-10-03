@@ -21,9 +21,8 @@ The Video Moment Retrieval App is a sophisticated web application that leverages
 
 - **Session Archives**: Access your previous retrieval sessions to revisit past queries and results.
 
-- **Contact Support**: Connect with our support team or administrators effortlessly through the built-in contact feature.
+- **Contact Support**: Connect with us effortlessly through the built-in contact feature.
 
-- **Personalization Options**: Customize and tailor your experience with various settings and preferences.
 
 ## Technologies 🛠️
 
